@@ -12,7 +12,8 @@ LexiParse is a lexical and syntax analyzer developed in Java. Its purpose is to 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Adnane-Debouze/LexiParse_Lexical-Syntax_Analyzer
+   git clone https://github.com/Adnane-Debouze/LexiParse_Lexical-Syntax_Analyzer.git
+
    ```
 2. Compile the project:
    ```sh
