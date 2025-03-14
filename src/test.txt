@@ -1,0 +1,12 @@
+programme p1a2 ;
+constante c3a4 = 314 ;
+variable v1 , v2 , s5t6 : Entier ;
+debut
+    v1 := 10 ;
+    v2 := 20 ;
+    s5t6 := -v1 > v2 ;
+    repeter
+        s5t6 := s5t6 + 1
+    jusqu’à s5t6 >=
+fin
+.
