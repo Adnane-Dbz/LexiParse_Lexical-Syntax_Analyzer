@@ -436,7 +436,6 @@ boolean is_fully_correct=true;
     }
 
 
-    // Main method
     public static void main(String[] args) {
         try {
             // File path to load tokens
